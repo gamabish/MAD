@@ -1,0 +1,4 @@
+#Fri Apr 05 13:51:53 NPT 2019
+base.0=E\:\\Colz\\Semester 2\\MAD\\Lab_1\\MAD\\week6\\FragmentExample1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
